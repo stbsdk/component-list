@@ -7,3 +7,6 @@
 
 // public
 module.exports = require('spa-component-list');
+
+// correct component name
+module.exports.prototype.name = 'stb-component-list';
