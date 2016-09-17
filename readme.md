@@ -1,6 +1,7 @@
 List component
 ==============
 
+[![Build Status](https://img.shields.io/travis/stbsdk/component-list.svg?style=flat-square)](https://travis-ci.org/stbsdk/component-list)
 [![NPM version](https://img.shields.io/npm/v/stb-component-list.svg?style=flat-square)](https://www.npmjs.com/package/stb-component-list)
 [![Dependencies Status](https://img.shields.io/david/stbsdk/component-list.svg?style=flat-square)](https://david-dm.org/stbsdk/component-list)
 [![Gitter](https://img.shields.io/badge/gitter-join%20chat-blue.svg?style=flat-square)](https://gitter.im/DarkPark/stbsdk)
