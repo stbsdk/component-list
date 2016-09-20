@@ -20,7 +20,7 @@
         "spa-component-list": "spasdk/component-list"
     },
     "devDependencies": {
-        "eslint": "2.*.*",
+        "eslint": "3.*.*",
         "stb-component": "stbsdk/component",
         "stb-eslint-config": "stbsdk/eslint-config"
     },
